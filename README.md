@@ -3,8 +3,10 @@
   
   
   <h3>Hi there 👋</h3>
-  I'm Jiho Bok, a student studying to become a <b>front-end developer</b>.
-  🌱 I’m currently learning JavaScript ES6+
+  <p>
+    I'm Jiho Bok, a student studying to become a <b>front-end developer</b>.</br>
+    🌱 I’m currently learning JavaScript ES6+
+  </p>
 
   <h3> 🛠 Tech Stack 🛠 </h3>
   <p>Techs that I've used at least once</p>   
