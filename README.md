@@ -1,6 +1,5 @@
-<center>   
 
-  <h3> Hi there 👋 </h3>
+  <h3><center> Hi there 👋 </center></h3>
   I am a Front-End Developer.
 
   <h3> 🛠 Tech Stack </h3>
