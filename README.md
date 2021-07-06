@@ -1,5 +1,5 @@
-
-  <h3><center> Hi there 👋 </center></h3>
+<div align="center">
+  <h3>Hi there 👋</h3>
   I am a Front-End Developer.
 
   <h3> 🛠 Tech Stack </h3>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>    
 
-</center>
+</div>
 <!--
 **Jiho31/Jiho31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
