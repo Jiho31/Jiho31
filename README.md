@@ -1,3 +1,4 @@
+<center>
 ### Hi there 👋
 I am a Front-End Developer.
 
@@ -13,6 +14,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
 
+</center>
 <!--
 **Jiho31/Jiho31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
