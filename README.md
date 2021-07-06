@@ -1,4 +1,4 @@
-<center>
+<center>   
 ### Hi there 👋
 I am a Front-End Developer.
 
@@ -12,7 +12,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>    
 
 </center>
 <!--
