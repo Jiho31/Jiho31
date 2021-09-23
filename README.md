@@ -5,7 +5,7 @@
   <h3>Hi there 👋</h3>
   <p>
     I'm Jiho Bok, a student studying to become a <b>front-end developer</b>.</br>
-    🌱 I’m currently studying React, and working on a clone project using it.
+    🌱 I’m currently studying React, and working on a clone project using it.</br>
     👄 I'm fluent in Korean & English.
     
   </p>
