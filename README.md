@@ -3,7 +3,7 @@
   
   - 😉 Web Front-End Engineer
   - 🌱 Using `React.js` and `Javascript`
-  - 🎓 Bachelor's Degree in `Computer Science and Information Security` @SejongUniversity
+  - 🎓 Bachelor's Degree in `Information Security` @SejongUniversity
   
   [![Jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiho31)](https://github.com/anuraghazra/github-readme-stats)
 
