@@ -5,7 +5,7 @@
   - 🌱 Using `Vue.js`, `React.js` and `Javascript`
   - 🌱 I’m currently learning `Typescript`
   
-  [![Jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiho31)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiho31)](https://github.com/anuraghazra/github-readme-stats)  
 
   ## 🛠 Tech Stack 🛠 
   <p>I have experience in using the following languages and tools: </p>   
@@ -20,14 +20,17 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/> <br/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
      
    </div>
-   
-  • • •   
+
+  • • •
+
+  ![](https://komarev.com/ghpvc/?username=Jiho31&style=flat-square)
+  
 
 </div>
 <!--
