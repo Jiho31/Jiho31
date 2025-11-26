@@ -4,8 +4,8 @@
 # Hi, I'm Jiho 👋
   
   - 👩🏻‍💻 Front-End Engineer with 2+ years of professional experience
-  - 🌟 My core skills are `Vue.js`, `React` and `Javascript`
-  - 🌱 I’m currently learning `Typescript`
+  - 🌟 My core skills are `Vue.js`, `React`, `Javascript` and `TypeScript`
+
   <!-- - 🔥 I'm passionate about delivering user-friendly web applications with incredible code. -->
 
   <div align="center">
