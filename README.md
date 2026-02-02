@@ -1,12 +1,10 @@
 
 
 
-# Hi, I'm Jiho 👋
+# Hi, I'm Jiho 👋  
   
   - 👩🏻‍💻 Front-End Engineer with 2+ years of professional experience
   - 🌟 My core skills are `Vue.js`, `React`, `Javascript` and `TypeScript`
-
-  <!-- - 🔥 I'm passionate about delivering user-friendly web applications with incredible code. -->
 
   <div align="center">
     <a href="bok.jiho@gmail.com">
@@ -19,8 +17,8 @@
       <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
     </a>
   </div>
-  
-  ----
+
+  ---
   
   ### 🛠 Languages & Tools 
   <p>I have experience in using the following languages and tools: </p>   
@@ -43,25 +41,5 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
    </div> -->
 
-  • • •
 
-  <!-- [![Jiho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiho31)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-  ![](https://komarev.com/ghpvc/?username=Jiho31&style=flat-square)
-  
-
-</div>
-<!--
-**Jiho31/Jiho31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
